@@ -3,7 +3,44 @@ font-size: 14px;
   font-family: Montserrat, sans-serif;
   font-family: Fraunces, sans-serif;
   font-weight: 700;
+  background-color: hsl(30, 38% 92%);
 }
+
+img {
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+width: 375px;
+height: 300px;
+padding: 10px;
+}
+
+h1 {
+  font-family: Montserrat;
+}
+
+.name {
+  font-family: Fraunces;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.description {
+  font-size: 14px;
+}
+
+.sale {
+  color: hsl(158, 36%, 37%);
+  font-family: Fraunces;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+button {
+  color: white;
+  background:hsl(158, 36%, 37%);
+  border-radius: 5px;
+}
+
 
 # Front-end Style Guide
 
