@@ -37,40 +37,40 @@ h1 {
 
 button {
   color: white;
+  font-weight: 500;
   background:hsl(158, 36%, 37%);
-  border-radius: 5px;
+  border-radius: 7px;
+  width: 150px;
 }
 
 
-# Front-end Style Guide
+Front-end Style Guide
 
-## Layout
+Layout
 
-The designs were created to the following widths:
+The designs were created to the following widths
 
-- Mobile: 375px
-- Desktop: 1440px
+Mobile 375px
+Desktop 1440px
 
-## Colors
+ Colors
 
-### Primary
+- Dark cyan hsl(158, 36%, 37%)
+- Cream hsl(30, 38%, 92%)
 
-- Dark cyan: hsl(158, 36%, 37%)
-- Cream: hsl(30, 38%, 92%)
+ Neutral
 
-### Neutral
+- Very dark blue hsl(212, 21%, 14%)
+- Dark grayish blue hsl(228, 12%, 48%)
+- White hsl(0, 0%, 100%)
 
-- Very dark blue: hsl(212, 21%, 14%)
-- Dark grayish blue: hsl(228, 12%, 48%)
-- White: hsl(0, 0%, 100%)
+ Typography
 
-## Typography
-
-### Body Copy
+ Body Copy
 
 - Font size (paragraph): 14px
 
-### Font
+ Font
 
 - Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
 - Weights: 500, 700
