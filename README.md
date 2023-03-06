@@ -1,6 +1,7 @@
 # Readme.me 
 
 ## Frontend Mentor - Product preview card component solution
+
 ## Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](product-preview/preview-main/design/desktop-preview.jpg)
