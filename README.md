@@ -1,4 +1,4 @@
-# Readme.me 
+# Readme.md
 
 ## Frontend Mentor - Product preview card component solution
 
