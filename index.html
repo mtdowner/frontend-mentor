@@ -1,45 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- displays site properly based on user's device -->
-    <link rel="stylesheet" href="style.css" type="text/css" />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="./images/favicon-32x32.png"
-    />
-    <title>Frontend Mentor | Product preview card component</title>
-  </head>
-  <body>
-    <div class="img">
-      <img src="image-product-mobile.jpg" />
-    </div>
-    <div class="text">
-      <h1>PERFUME</h1>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="Frontend Mentors">
+<meta name="description" content="a really messyproject">
+<meta name="theme-color" content="#3C8068">
+  
+  <title>Frontend Mentor Product preview card component</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon.png">
+  <link rel="icon" type="image/svg" sizes="16x16" href="/assets/icon-cart.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@700;800&family=Montserrat:wght@200;300;500;700&display=swap" rel="stylesheet">
+</head>
+  
+<body>
 
-      <p class="name">Gabrielle Essence <br />Eau De Parfum</p>
+  <div id="card">
+  <img src="solution-files/assets/images/mobile-img.jpg" class="image">
 
-      <p class="description">
-        A floral, solar and voluptuous interpretation composed by Olivier Polge,
-        Perfumer-Creator for the House of CHANEL.
-      </p>
+<div class="text">
+  <h1 class="upper">Perfume</h1>
 
-      <p class="sale">$149.99 <del>$169.99</del></p>
+  <p class="name">
+    Gabrielle Essence<br>
+    Eau De Parfum</p>
 
-      <button>Add to Cart</button>
-    </div>
+  <p class="description">
+    A floral, solar and voluptuous<br>
+    interpretation composed by Olivier<br>
+    Polge, Perfumer-Creator for the House of <br>
+    <span class="upper">Chanel</span>.</p>
 
-    <div class="attribution">
-      <p>
-        Challenge by
-        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
-          >Frontend Mentor</a
-        >. Coded by <a href="#" target="_blank">Missy</a>. Just Missy.
-      </p>
-      .
-    </div>
-  </body>
+  <p class="sale">
+    $149.99
+    <span class="slash">
+      $169.99
+    </span>
+  </p>
+</div>
+    
+    <button class="button"><img class="icon" src="icon-cart.svg">Add to Cart</button>
+    <br> 
+  <footer class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+    Coded by <a href="https://mtdowner.github.io">Missy. amessyproject initiative</a>
+  </footer>
+  </div>
+  
+</body>
 </html>

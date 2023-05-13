@@ -1,0 +1,106 @@
+html {
+  background-color: hsl(30, 38%, 92%);
+  width: 100%;
+}
+
+body {
+  margin: 0 auto;
+}
+
+#card {
+  background-color: white;
+  border-radius: 10px;
+  display: block;
+max-width: 375px;
+  margin: 2rem 1rem;
+}
+
+.image {
+border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  width: 100%;
+}
+
+h1 {
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  font-size:14px;
+  letter-spacing: 8px;
+}
+
+.name {
+  font-family: Fraunces, sans-serif;
+  font-weight: 700;
+  font-size: 1.75em
+}
+
+.upper {
+  text-transform: uppercase;
+  }
+
+.description {
+  font-family: Montserrat, sans-serif;
+  font-size: .75em;
+  line-height: 1.75em;
+  padding-right: 1.2em;
+}
+
+.text {
+  padding-left: 1rem;
+}
+
+.sale {
+  color: hsl(158, 36%, 37%);
+  font-family: Fraunces, sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+  padding-left: 1rem;
+}
+
+.slash {
+  color: #000;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  font-size: .70rem;
+  text-decoration-line: line-through;
+  position: relative;
+  bottom: 10px;
+}
+
+.button {
+  box-sizing: border-box;
+  color: white;
+  font-family: Montserrat, sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  background:hsl(158, 36%, 37%);
+  border-radius: 7px;
+  width: 82%;
+  padding: 20px;
+  display: block;
+  margin: 0 auto;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  position: relative;
+  right: 15px;
+  }
+
+footer {
+  padding: 1rem;
+}
+
+.attribution {
+  font-size: 11px; text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+a {
+  color: hsl(158, 36%, 37%);
+}
