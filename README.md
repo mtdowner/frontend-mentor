@@ -1,10 +1,8 @@
 # Readme.md
 
-## Frontend Mentor - Product preview card component solution
-
 ## Frontend Mentor - Product preview card component
 
-![Design preview for the Product preview card component coding challenge](product-preview/preview-main/design/desktop-preview.jpg)
+![Design preview for the Product preview card component coding challenge](solution-files/preview/design.jpg)
 
 ## Welcome! 👋
 
@@ -95,7 +93,8 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 
----
+# Frontend Mentor - Product preview card component solution
+
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -138,7 +137,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://mtdowner.github.io/card-project/](https://mtdowner.github.io/card-project/)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://mtdowner.github.io/Product-preview-card-component/))
 
 ## My process
 
@@ -152,6 +151,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
+
+**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -173,14 +174,22 @@ const proudOfThisFunc = () => {
 }
 ```
 
+If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+
+**Note: Delete this note and the content within this section and replace with your own learnings.**
+
 ### Continued development
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+
+**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+
+**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
@@ -189,3 +198,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Twitter - [@downer_missy](https://www.twitter.com/downer_missy)
 
 ## Acknowledgments
+
+This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
