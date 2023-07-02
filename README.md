@@ -193,10 +193,12 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Missy](https://www.your-site.com)
-- Frontend Mentor - [@mtdowner](https://www.frontendmentor.io/profile/mtdowner)
-- Twitter - [@downer_missy](https://www.twitter.com/downer_missy)
+- Website - [My portfolio](https://www.mtdowner.github.io/)
+- Frontend Mentor - [@mtdowner](https://www.frontendmentor.io/profile/mtdowner/)
+- Twitter - [@downer_missy](https://www.twitter.com/downer_missy/)
+- Hasnode - [@justmissy](https://www.messymissy.hasnode.dev/)
+- [Daily.dev](https://app.daily.dev/missy/)
+- [LinkedIN](https://linkedin.com/in/melissa-downer/)
+- Instagram - [@smiss.and.wesson](https://instagram.com/smiss.and.wesson/)
 
 ## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
