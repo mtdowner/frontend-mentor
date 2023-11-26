@@ -14,6 +14,9 @@
 *::before,
 *::after {
   box-sizing: border-box;
+}
+
+* {
   margin: 0;
 }
 
@@ -31,14 +34,20 @@ body {
   font-family: var(--base-font);
   font-weight: var(--reg-weight);
   -webkit-font-smoothing: antialiased;
+  display: grid;
+  place-items: center;
+  margin: 1rem;
+  max-width: 375px;
+}
+
+h1, p {
+  padding-left: .5rem;
+  padding-right: 25px;
+  overflow-wrap: break-word;
 }
 
 h1 {
   line-height: 1;
-}
-
-h1, p {
-  overflow-wrap: break-word;
 }
 
 #card {
@@ -46,15 +55,14 @@ h1, p {
   border-radius: 0.5rem;
   display: block;
   width: 375px;
-  margin: 0rem auto;
 }
 
 article {
   display: grid;
   padding: 1.5rem;
   gap: 1rem;
-  
 }
+
 img:nth-of-type(1) {
   border-top-left-radius: 0.5rem;
   border-top-right-radius: 0.5rem;
@@ -94,7 +102,8 @@ button {
   font-weight: var(--bold);
   background:var(--cyan);
   border-radius: 0.5rem;
-  height: 47px;
+ height: 50px;
+ width: 100%;
   display: inline-flex;
   gap: 0.5rem;
   justify-content: center;
@@ -105,5 +114,4 @@ button {
 button img {
   width: 1rem;
   height: 1rem;
-  
 }

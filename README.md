@@ -186,19 +186,14 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [MDN](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) - This is one of the best resources to use to answer anything involving HTML and CSS. This is the learning path I'm taking, and it's extensive, interactive, 
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
 - Website - [My portfolio](https://www.mtdowner.github.io/)
 - Frontend Mentor - [@mtdowner](https://www.frontendmentor.io/profile/mtdowner/)
-- Twitter - [@downer_missy](https://www.twitter.com/downer_missy/)
-- Hasnode - [@justmissy](https://www.messymissy.hasnode.dev/)
+- Hashnode - [@justmissy](https://www.messymissy.hasnode.dev/)
 - [Daily.dev](https://app.daily.dev/missy/)
 - [LinkedIN](https://linkedin.com/in/melissa-downer/)
 - Instagram - [@smiss.and.wesson](https://instagram.com/smiss.and.wesson/)
-
-## Acknowledgments
