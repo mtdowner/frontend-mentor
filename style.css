@@ -4,8 +4,8 @@
   --white: hsl(0, 0%, 100%);
   --base-font: Montserrat, sans-serif;
   --accent-font: Fraunces, sans-serif;
-  --reg-size: .875rem;
-  --lg-font: 2rem;
+  --size-14px: 1rem;
+  --size-40px: 2.25rem;
   --reg-weight: 500;
   --bold: 700;
 }
@@ -21,7 +21,8 @@
 }
 
 html, body {
-  height: 100%;
+  width: 375px;
+  height: 300px;
 }
 
 html {
@@ -29,20 +30,17 @@ html {
 }
 
 body {
-  font-size: var(--reg-size);
+  font-size: var(--size-14px);
   line-height: 1.7;
   font-family: var(--base-font);
   font-weight: var(--reg-weight);
   -webkit-font-smoothing: antialiased;
   display: grid;
   place-items: center;
-  margin: 1rem;
-  max-width: 375px;
+  padding: 1rem;
 }
 
 h1, p {
-  padding-left: .5rem;
-  padding-right: 25px;
   overflow-wrap: break-word;
 }
 
@@ -54,12 +52,12 @@ h1 {
   background-color: var(--white);
   border-radius: 0.5rem;
   display: block;
-  width: 375px;
+  width: 343px;
 }
 
 article {
   display: grid;
-  padding: 1.5rem;
+  padding: 1.5rem 1.75rem;
   gap: 1rem;
 }
 
@@ -69,26 +67,27 @@ img:nth-of-type(1) {
   max-width: 100%;
 }
 
-article p:nth-child(1) {
+p:nth-of-type(1) {
   letter-spacing: 4px;
   text-transform: uppercase;
 }
 
-h1,
-article p:nth-child(4) {
-  font-family: var(--accent-font);
-  font-weight: var(--bold);
-  font-size: var(--lg-font);
+
+p:nth-of-type(3) {
+  color: var(--cyan);
 }
 
-article p:nth-child(4) {
-  color: var(--cyan);
+h1,
+p:nth-of-type(3) {
+  font-family: var(--accent-font);
+  font-weight: var(--bold);
+  font-size: var(--size-40px);
 }
 
 span {
   font-family: var(--base-font);
   font-weight: var(--reg-weight);
-  font-size: var(--reg-size);
+  font-size: var(--size-14px);
   color: #000;
   text-decoration-line: line-through;
   margin-left: 1rem;
@@ -102,8 +101,8 @@ button {
   font-weight: var(--bold);
   background:var(--cyan);
   border-radius: 0.5rem;
- height: 50px;
- width: 100%;
+  height: 50px;
+  width: 100%;
   display: inline-flex;
   gap: 0.5rem;
   justify-content: center;
